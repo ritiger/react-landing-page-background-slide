@@ -1,0 +1,9 @@
+table {
+  background-image: url(wallpaper.jpeg);
+  border-radius: 5px;
+}
+
+td {
+  width: 100%;
+  text-align: center;
+}
